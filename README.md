@@ -49,10 +49,10 @@ Getting Started
 Prerequisites
 Python 3.x
 Matplotlib (for Problem 1)
-Running the Solutions
-Clone this repository: git clone <repository_url>
-Navigate to the repository directory: cd <repository_directory>
+
 Run each script individually:
+
+
 python flight_path_optimization.py
 python apple_distribution.py
 python castle_pathfinding.py
@@ -61,5 +61,3 @@ For any questions or further clarification, feel free to reach out:
 
 Name: Sameer Parmar
 Email: sameerparmar.sp@gmail.com
-LinkedIn: Sameer Parmar
-GitHub: sameer-parmar
